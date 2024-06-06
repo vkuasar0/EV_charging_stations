@@ -1,0 +1,7 @@
+shell
+**/__pycache__
+**/migrations
+staticfiles
+db.sqlite3
+evstations.tar
+.env
